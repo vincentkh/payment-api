@@ -4,7 +4,8 @@
 
 - Clone repo
 - `npm i` in root directory
-- `npm start` to run nodemon in watch mode (http://localhost:3000)
+- `npm start` (http://localhost:3000)
+- `npm run dev` to run nodemon in watch mode
 
 ## How to access database
 
